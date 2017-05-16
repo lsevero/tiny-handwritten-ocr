@@ -60,7 +60,7 @@ function classify(){
         $("#res").html("Classifying....<br>");
         var fd = new FormData();
         fd.append("images_file",blob,"digit.png");
-        var parameters = {"classifier_ids":[ "digits_1152789331" ], "threshold":0.0};
+        var parameters = {"classifier_ids":[ "digits_38027011" ], "threshold":0.0};
         var parameters_blob = new Blob([JSON.stringify(parameters)],{type: "application/json"});
         fd.append("parameters",parameters_blob,"parameters.json");
 
