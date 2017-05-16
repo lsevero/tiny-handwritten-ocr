@@ -23,3 +23,4 @@ python -m SimpleHTTPServer 8080
 
 Then access it with 'localhost:8080' in a web browser.
 
+The server/ folder holds the server code deployed to IBM Bluemix.
