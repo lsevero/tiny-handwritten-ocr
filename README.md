@@ -1,6 +1,8 @@
 Tiny Handwritten OCR (using IBM Watson)
 =======================================
 
+![img](https://github.com/lsevero/tiny-handwritten-ocr/blob/master/img.png?raw=true)
+
 This is a tiny example of how to recognize handwritten digits using IBM Watson Visual Recognition, this app runs solely on the client's browser, and sends and receives data to Watson through ajax calls.
 
 The training set is at the folder digits/ , with the code to train Watson to recognize the digits ('training.sh').
