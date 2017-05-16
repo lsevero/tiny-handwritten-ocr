@@ -1,0 +1,5 @@
+---
+applications:
+- name:    tiny-handwritten-ocr
+  host:    tiny-handwritten-ocr
+  memory:  64M
