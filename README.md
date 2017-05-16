@@ -7,7 +7,7 @@ This is a tiny example of how to recognize handwritten digits using IBM Watson V
 
 The training set is at the folder digits/ , with the code to train Watson to recognize the digits ('training.sh').
 
-The code for the app is in the src/ , you could open the 'index.html' with the browser or serve it with python or any static file server:
+You could open the 'index.html' with the browser or serve it with python or any static file server:
 
 ```python
 #python 3
